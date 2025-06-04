@@ -1,0 +1,5046 @@
+[
+  {
+    "id": 69,
+    "name": "Ústřední knihovna - Suterén",
+    "street": "Mariánské náměstí 98/1",
+    "zipcode": "115 72",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.08738,
+    "longitude": 14.41738,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "16:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "15:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "15:00",
+        "closes": "17:00",
+        "description": "Zavřeno od 10. do 11. 6. 2024",
+        "is_default": false,
+        "valid_from": "2024-06-09T22:00:00.000Z",
+        "valid_through": "2024-06-10T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Ústřední knihovna - Pokladna sálů",
+    "street": "Mariánské náměstí 98/1",
+    "zipcode": "115 72",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.08738,
+    "longitude": 14.41738,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Mariánské náměstí",
+    "street": "Mariánské náměstí 1",
+    "zipcode": "115 72",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.08738,
+    "longitude": 14.41738,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "06:00",
+        "closes": "22:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "06:00",
+        "closes": "22:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "06:00",
+        "closes": "22:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "06:00",
+        "closes": "22:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "06:00",
+        "closes": "22:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Barrandov",
+    "street": "Wassermannova 926/16",
+    "zipcode": "152 00",
+    "city": "Praha 5",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.028402,
+    "longitude": 14.36824,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bohnice",
+    "street": "Těšínská 600/4",
+    "zipcode": "181 00",
+    "city": "Praha 8",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.128879,
+    "longitude": 14.418651,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Brusnice - vzácné tisky",
+    "street": "U Brusnice 324/9",
+    "zipcode": "16900",
+    "city": "Praha 6",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.094008,
+    "longitude": 14.392211,
+    "opening_hours": [
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "12:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "13:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Břevnov",
+    "street": "Bělohorská 1666/56",
+    "zipcode": "169 00",
+    "city": "Praha 6",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.084426,
+    "longitude": 14.374038,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cibulka",
+    "street": "Musílkova 335/62",
+    "zipcode": "150 00",
+    "city": "Praha 5",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.0676633,
+    "longitude": 14.3665122,
+    "opening_hours": [
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Letní provoz od 1. 7. do 31. 8. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-30T22:00:00.000Z",
+        "valid_through": "2025-08-30T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dědina",
+    "street": "Žukovského 888/2",
+    "zipcode": "161 00",
+    "city": "Praha 6",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.090728,
+    "longitude": 14.308937,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dejvice",
+    "street": "Technická 2710/6",
+    "zipcode": "160 80",
+    "city": "Praha 6",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.1039,
+    "longitude": 14.3906,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dittrichova",
+    "street": "Dittrichova 1543/2",
+    "zipcode": "120 00",
+    "city": "Praha 2",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.073719,
+    "longitude": 14.416502,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "DOK16 – Sousedská dílna",
+    "street": "Kobka č. 16, Hořejší nábřeží null",
+    "zipcode": "150 00",
+    "city": "Praha 5",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.0685992,
+    "longitude": 14.4115619,
+    "opening_hours": [
+      {
+        "day_of_week": "Tuesday",
+        "opens": "16:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": false,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "16:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": false,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "10:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": false,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "16:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": false,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "13:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": false,
+        "valid_from": null,
+        "valid_through": null
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Dům čtení (Ruská)",
+    "street": "Ruská 1455/192",
+    "zipcode": "10000",
+    "city": "Praha 10",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.072703,
+    "longitude": 14.483362,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Hloubětín",
+    "street": "Hloubětínská 1138/5",
+    "zipcode": "198 00",
+    "city": "Praha 14",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.1039175,
+    "longitude": 14.5345767,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Hostivař",
+    "street": "Golfová 910/10",
+    "zipcode": "102 00",
+    "city": "Praha 15",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.049002,
+    "longitude": 14.547006,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Hradčany",
+    "street": "Pohořelec 111/25",
+    "zipcode": "118 00",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.088114,
+    "longitude": 14.389788,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "12:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "12:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "12:00",
+        "closes": "17:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "17:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "17:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Chodov",
+    "street": "Jírovcovo náměstí 1782/1",
+    "zipcode": "148 00",
+    "city": "Praha 11",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.024191,
+    "longitude": 14.491924,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Jezerka",
+    "street": "Nuselská 603/94",
+    "zipcode": "140 00",
+    "city": "Praha 4",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.0579253,
+    "longitude": 14.4499814,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Kiosek CČM",
+    "street": "Chlumecká 765/6",
+    "zipcode": "198 19",
+    "city": "Praha 14",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.1073914,
+    "longitude": 14.5846047,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "09:00",
+        "closes": "21:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "21:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "21:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "21:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "21:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "21:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Sunday",
+        "opens": "09:00",
+        "closes": "21:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Kiosek DBK",
+    "street": "Budějovická 1667/64",
+    "zipcode": "140 00",
+    "city": "Praha 4",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.0438903,
+    "longitude": 14.4493061,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Sunday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Kobylisy",
+    "street": "Klapkova 26/3",
+    "zipcode": "182 00",
+    "city": "Praha 8",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.124078,
+    "longitude": 14.456115,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Kobylisy - Oddělení pro děti",
+    "street": "Klapkova 26/3",
+    "zipcode": "182 00",
+    "city": "Praha 8",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.124078,
+    "longitude": 14.456115,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Korunní",
+    "street": "Korunní 2160/68",
+    "zipcode": "100 00",
+    "city": "Praha 10",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.075226,
+    "longitude": 14.450153,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Krč",
+    "street": "Štúrova 1282/12",
+    "zipcode": "140 00",
+    "city": "Praha 4",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.023972,
+    "longitude": 14.451789,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ládví",
+    "street": "Burešova 1661/2",
+    "zipcode": "182 00",
+    "city": "Praha 8",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.127471,
+    "longitude": 14.470279,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Letná",
+    "street": "Milady Horákové 387/56",
+    "zipcode": "170 00",
+    "city": "Praha 7",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.100157,
+    "longitude": 14.425521,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Lužiny",
+    "street": "Archeologická 2256/1",
+    "zipcode": "155 00",
+    "city": "Praha 13",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.044235,
+    "longitude": 14.331546,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Malešice",
+    "street": "Počernická 524/64",
+    "zipcode": "108 00",
+    "city": "Praha 10",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.0815736,
+    "longitude": 14.5004947,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Modřany",
+    "street": "Vazovova 3229/1",
+    "zipcode": "143 00",
+    "city": "Praha 12",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.005798,
+    "longitude": 14.433956,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Novodvorská",
+    "street": "Novodvorská 1013/151",
+    "zipcode": "140 00",
+    "city": "Praha 4",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.024844,
+    "longitude": 14.432905,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Opatov",
+    "street": "Opatovská 1754/14",
+    "zipcode": "140 00",
+    "city": "Praha 11",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.025599,
+    "longitude": 14.518434,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "15:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "15:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Ostrčilovo náměstí",
+    "street": "Ostrčilovo nám. 518/1",
+    "zipcode": "120 00",
+    "city": "Praha 2",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.065811,
+    "longitude": 14.424764,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ostrovského",
+    "street": "Na Skalce 972/29",
+    "zipcode": "150 00",
+    "city": "Praha 5",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.068359,
+    "longitude": 14.400164,
+    "opening_hours": [
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Letní provoz od 1. 7. do 31. 8. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-30T22:00:00.000Z",
+        "valid_through": "2025-08-30T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Letní provoz od 1. 7. do 31. 8. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-30T22:00:00.000Z",
+        "valid_through": "2025-08-30T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Pankrác",
+    "street": "Na Veselí 542/5",
+    "zipcode": "140 00",
+    "city": "Praha 4",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.054391,
+    "longitude": 14.438053,
+    "opening_hours": [
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Letní provoz od 1. 7. do 31. 8. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-30T22:00:00.000Z",
+        "valid_through": "2025-08-30T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "18:00",
+        "description": "Letní provoz od 1. 7. do 31. 8. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-30T22:00:00.000Z",
+        "valid_through": "2025-08-30T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Petřiny",
+    "street": "U Petřin 2511/1",
+    "zipcode": "160 00",
+    "city": "Praha 6",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.0857136,
+    "longitude": 14.3417793,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "10:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "10:00",
+        "closes": "17:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Prosek",
+    "street": "Měšická 806/3",
+    "zipcode": "190 00",
+    "city": "Praha 9",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.123006,
+    "longitude": 14.500268,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Rajská zahrada",
+    "street": "Generála Janouška 1060/2",
+    "zipcode": "198 00",
+    "city": "Praha 14",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.103078,
+    "longitude": 14.565272,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sedmička",
+    "street": "Tusarova 429/35",
+    "zipcode": "170 00",
+    "city": "Praha 7",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.101962222222,
+    "longitude": 14.450361111111,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Skalka",
+    "street": "Rubensova 2237/2",
+    "zipcode": "100 00",
+    "city": "Praha 10",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.068513,
+    "longitude": 14.509599,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Smíchov",
+    "street": "Náměstí 14. října 83/15",
+    "zipcode": "150 00",
+    "city": "Praha 5",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.073919,
+    "longitude": 14.406673,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "13:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Spořilov",
+    "street": "Postupická 2932/7",
+    "zipcode": "141 00",
+    "city": "Praha 4",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.045213,
+    "longitude": 14.491654,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Stodůlky",
+    "street": "Kovářova 1615/4",
+    "zipcode": "155 00",
+    "city": "Praha 13",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.049051,
+    "longitude": 14.317017,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Školská",
+    "street": "Školská 1267/30",
+    "zipcode": "110 00",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.079649,
+    "longitude": 14.424511,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "11:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "11:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "11:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "15:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "11:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "11:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "11:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "15:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Ústřední knihovna",
+    "street": "Mariánské náměstí 98/1",
+    "zipcode": "115 72",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.08738,
+    "longitude": 14.41738,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "13:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "13:00",
+        "closes": "18:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ústřední knihovna - Dílna",
+    "street": "Mariánské náměstí 98/1",
+    "zipcode": "115 72",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.08738,
+    "longitude": 14.41738,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Ústřední knihovna - Kreativní centrUM",
+    "street": "Mariánské náměstí 98/1",
+    "zipcode": "115 72",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.08738,
+    "longitude": 14.41738,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "16:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "15:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "16:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "15:00",
+        "closes": "17:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Ústřední knihovna - pokladna sálů",
+    "street": "Mariánské náměstí 98/1",
+    "zipcode": "115 72",
+    "city": "Praha 1",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.08738,
+    "longitude": 14.41738,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "14:00",
+        "closes": "20:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Velká Chuchle",
+    "street": "Starochuchelská 20/7",
+    "zipcode": "159 00",
+    "city": "Praha 16",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.011705,
+    "longitude": 14.385132,
+    "opening_hours": [
+      {
+        "day_of_week": "Tuesday",
+        "opens": "13:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "10:00",
+        "closes": "18:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "10:00",
+        "closes": "18:00",
+        "description": "Letní provoz od 1. 7. do 31. 8. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-30T22:00:00.000Z",
+        "valid_through": "2025-08-30T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Velký mlýn",
+    "street": "U Českých loděnic 40/6",
+    "zipcode": "180 00",
+    "city": "Praha 8",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.1075122,
+    "longitude": 14.4691872,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Monday",
+        "opens": "14:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "14:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "14:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "14:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "14:00",
+        "closes": "17:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Sunday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "20:00",
+        "description": "Bez obsluhy knihovníků od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Bez obsluhy knihovníků od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Bez obsluhy knihovníků od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Bez obsluhy knihovníků od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Bez obsluhy knihovníků od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Saturday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Bez obsluhy knihovníků od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Sunday",
+        "opens": "09:00",
+        "closes": "20:00",
+        "description": "Bez obsluhy knihovníků od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Vikova",
+    "street": "Vikova 1223/4",
+    "zipcode": "140 00",
+    "city": "Praha 4",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.041235,
+    "longitude": 14.437536,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Vozovna",
+    "street": "Za Žižkovskou vozovnou 2687/18",
+    "zipcode": "130 00",
+    "city": "Praha 3",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.0917275,
+    "longitude": 14.4783867,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Vysočany",
+    "street": "Zbuzkova 285/34",
+    "zipcode": "190 00",
+    "city": "Praha 9",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.111288,
+    "longitude": 14.501039,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Zahradní Město",
+    "street": "Topolová 2961/12a",
+    "zipcode": "106 00",
+    "city": "Praha 10",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.056364,
+    "longitude": 14.508175,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Záhřebská",
+    "street": "Záhřebská 158/20",
+    "zipcode": "120 00",
+    "city": "Praha 2",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.071889,
+    "longitude": 14.437047,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Žižkov",
+    "street": "Husitská 110/70",
+    "zipcode": "130 00",
+    "city": "Praha 3",
+    "region": "",
+    "country": "Česko",
+    "latitude": 50.0867,
+    "longitude": 14.4499,
+    "opening_hours": [
+      {
+        "day_of_week": "Monday",
+        "opens": "13:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "12:30:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "13:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "12:30:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "13:00",
+        "closes": "16:00",
+        "description": "Běžná otevírací doba",
+        "is_default": true,
+        "valid_from": null,
+        "valid_through": null
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "09:00",
+        "closes": "12:30:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Tuesday",
+        "opens": "13:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Wednesday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Thursday",
+        "opens": "12:00",
+        "closes": "19:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "09:00",
+        "closes": "12:30:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      },
+      {
+        "day_of_week": "Friday",
+        "opens": "13:00",
+        "closes": "16:00",
+        "description": "Zavřeno od 9. do 9. 6. 2025",
+        "is_default": false,
+        "valid_from": "2025-06-08T22:00:00.000Z",
+        "valid_through": "2025-06-08T22:00:00.000Z"
+      }
+    ]
+  }
+]
