@@ -24,4 +24,5 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run extractor
-        run: python extraktor.py
+        run: python golemio_libraries.py
+
